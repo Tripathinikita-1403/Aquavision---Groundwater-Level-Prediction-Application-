@@ -1,0 +1,1 @@
+Aquavision is a smart app that predicts groundwater levels using data and algorithms. It helps monitor and forecast water table changes, enabling efficient water management. Ideal for farmers, planners, and policymakers to make informed decisions and ensure sustainable groundwater use.
